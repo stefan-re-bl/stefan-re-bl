@@ -6,9 +6,9 @@ Exploring new technologies to enhance my development skills.
 Learning Angular and TypeScript to deepen my front-end expertise.
 Open to collaborating on new and exciting projects!
 💡 Skills & Interests
-Front-end: JavaScript, React, Angular (learning), TypeScript (learning)
-Back-end: Node.js, Express, MongoDB
-Other Tools: Git, REST APIs, Firebase
+Front-end: JavaScript, Bootstrap, Angular (learning), TypeScript (learning)
+Back-end: MariaDB, Apache, PHP
+Other Tools: Git, Python scripting, Bash (Linux).
 🤝 Let's Connect!
 ✔ Feel free to ask me anything! I’m always open to learning and sharing knowledge.
 📫 Email: stefanoreymundo.laboral@gmail.com
